@@ -1,2 +1,2 @@
-# openVidu
+# openVidu-React
 self-study
