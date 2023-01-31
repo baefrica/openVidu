@@ -1,2 +1,2 @@
 # openVidu-React
-self-study
+self-study using openvidu and webrtc
